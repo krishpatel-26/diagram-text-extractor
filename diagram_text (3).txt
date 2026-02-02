@@ -1,0 +1,39 @@
+
+
+--- PAGE 1 ---
+“@ TRAFFIC LIGHT project - CODESYS                                                                                                                                                                                                                                                               - oOo           x
+File Edit View Project FED/LOAL Ladder Build Online Debug Tools Window Help                                                                                     ws
+AES AG] 7 cm & Be OX Jd AG AS S| 7K OM | Ea CL | Application (Device: PLC Logic] - OF OF > mw NICH aca eS |e [Slr ly                     |
+FE ov foe ce ce ce ae ar ibd id a OOOH Oo YO A Ble cE as                                     |
+Devices                           7 aX  Tootox                 vx
+
+Bi) RAFICUGHT                     El      1[ PROGRAM PLC_PRG                                                                      fe]  S General
+
+8-9 oo cones conta                | van                                                                                     a
+SA] puctoge                     e   ‘      Stop: BOOL:                                                                          =F box
+8+ application                            :        ei: POOL                                                                                                 CF Boxwith EN/ENO
+(BD Lecary Manage                          «         Ri: BOOL:                                                                                                               ome Assignment
+fy rcprcprg |       7      TOH_O: TON:                                                                    > Jump
++B Task Configuration                     8         Ele: TIME:                                                                                                  ur Retum
+- BD MainTack                     sg       TON_1: TON?                                                                                424 Input
+]  LB) pic pre                                                                  =                                     [ 100 % [Rl      J       “E Branch
+BD VISU_TASK                                 sep                                                           a                                                             E Exeate
+Lay ViElems.Visu_Pro                    0 es € |                                               € Boolean Operators
+®- Gh) Visuakzation Manager                 ——              a}                                                                                        ® Math Operators
+Le) visuatzaton                               a      wr                                      O                                               : Other Operators
+ae  ee ze                        pag                                ® Function Blocks
+v                                        & Ladder Elements
+—             =
+a                                              n
+      if6.-———_ 4
+4208          ze                               oe
+TO |
+n     ret                                   a
+|
+Lapod ze                               :
+
+-         7                                                                                  [R[+IO) [ese [ey                          ——
+|< Devices [IP PoUs                         oT        —_          G) Visualization To... Toot. EEG Proper...
+©) Messages - Total 34 error(s), 1 waming(s), 0 message(s)
+
+|     Lastbuld: O.0 @0 Precampile ©     | [SIMULATION] S&S            Project users (nobody)           Oly
